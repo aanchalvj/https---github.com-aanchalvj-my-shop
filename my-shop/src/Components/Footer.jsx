@@ -51,7 +51,7 @@ export default function Footer() {
             <p>
               ✉️ <strong>Email:</strong><br />
               <a href="mailto:dpvijay1965@gmail.com" className="text-orange-500 hover:underline">dpvijay1965@gmail.com</a><br />
-              <a href="mailto:chanchal1995@gmail.com" className="text-orange-500 hover:underline">chanchal1995@gmail.com</a>
+              <a href="mailto:chanchalvijay1240@gmail.com" className="text-orange-500 hover:underline">chanchalvijay1240@gmail.com</a>
             </p>
           </div>
         </div>

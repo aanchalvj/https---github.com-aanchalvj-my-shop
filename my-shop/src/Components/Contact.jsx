@@ -92,7 +92,7 @@ export default function Contact() {
               </a>
               <br />
               <a href="mailto:chanchal1995@gmail.com" className="text-orange-500 hover:underline">
-                chanchal1995@gmail.com
+                chanchalvijay1240@gmail.com
               </a>
             </p>
             <p>
